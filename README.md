@@ -1,2 +1,4 @@
 # hello-world
-For Project 1
+
+Hi humans thing. This is a little messegae that I am writing for this assignment. 
+Just had Wendys too lol
